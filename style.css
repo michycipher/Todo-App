@@ -1,5 +1,5 @@
 body {
-    background: red;
+    background: #f78d24;
 }
 
 .container {
@@ -20,7 +20,7 @@ input[type=submit] {
 }
 
 .todos li {
-    background: #423a6f;
+    background: #f78d24;
     color: #fff;
 }
 .delete{
